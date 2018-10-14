@@ -1,0 +1,7 @@
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\bin\Debug\ThreadsProj.exe.config
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\bin\Debug\ThreadsProj.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\bin\Debug\ThreadsProj.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\obj\Debug\ThreadsProj.csprojResolveAssemblyReference.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\obj\Debug\ThreadsProj.csproj.CoreCompileInputs.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\obj\Debug\ThreadsProj.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\ThreadsProj\ThreadsProj\obj\Debug\ThreadsProj.pdb

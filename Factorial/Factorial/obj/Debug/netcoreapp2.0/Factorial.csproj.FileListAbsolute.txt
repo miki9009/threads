@@ -1,0 +1,11 @@
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.deps.json
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.json
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.dev.json
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\bin\Debug\netcoreapp2.0\Factorial.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfo.cs
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\Factorial\Factorial\obj\Debug\netcoreapp2.0\Factorial.pdb
