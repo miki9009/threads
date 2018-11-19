@@ -1,0 +1,9 @@
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\bin\Debug\WebScrapping.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\bin\Debug\WebScrapping.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csprojResolveAssemblyReference.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\obj\Debug\WebScrapping.csproj.CoreCompileInputs.cache
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\obj\Debug\WebScrapping.exe
+C:\Users\miki9\Documents\Visual Studio 2017\Projects\WebScrapping\WebScrapping\obj\Debug\WebScrapping.pdb
